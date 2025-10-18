@@ -6,7 +6,7 @@ Our vision was to create a platform that actively assists both teachers and stud
 
 Live Demo & Repository
 
-Live Project URL: https://gemini.google.com/share/efb89878b157
+Live Project URL: https://gemini.google.com/share/2c79d2089941
 
 GitHub Repository: https://github.com/nrsujithkumar/synapse2k5
 
